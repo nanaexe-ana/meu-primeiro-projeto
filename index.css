@@ -107,5 +107,7 @@ main footer p {
 main footer a {
     margin-top: 1rem;
     font-size: 1.8rem;
-    display: block;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
 }
